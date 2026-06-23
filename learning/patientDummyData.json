@@ -1,0 +1,112 @@
+[
+    {
+        "patient_id": 1,
+        "name": "Ali Khan",
+        "age": 34,
+        "gender": "Male",
+        "blood_group": "A+",
+        "disease": "Diabetes",
+        "phone": "+92-300-1234567",
+        "address": "Karachi, Pakistan",
+        "admitted": true
+    },
+    {
+        "patient_id": 2,
+        "name": "Sara Ahmed",
+        "age": 28,
+        "gender": "Female",
+        "blood_group": "B+",
+        "disease": "Asthma",
+        "phone": "+92-301-2345678",
+        "address": "Lahore, Pakistan",
+        "admitted": false
+    },
+    {
+        "patient_id": 3,
+        "name": "Usman Tariq",
+        "age": 45,
+        "gender": "Male",
+        "blood_group": "O+",
+        "disease": "Hypertension",
+        "phone": "+92-302-3456789",
+        "address": "Islamabad, Pakistan",
+        "admitted": true
+    },
+    {
+        "patient_id": 4,
+        "name": "Ayesha Malik",
+        "age": 22,
+        "gender": "Female",
+        "blood_group": "AB+",
+        "disease": "Migraine",
+        "phone": "+92-303-4567890",
+        "address": "Karachi, Pakistan",
+        "admitted": false
+    },
+    {
+        "patient_id": 5,
+        "name": "Hassan Raza",
+        "age": 50,
+        "gender": "Male",
+        "blood_group": "A-",
+        "disease": "Heart Disease",
+        "phone": "+92-304-5678901",
+        "address": "Faisalabad, Pakistan",
+        "admitted": true
+    },
+    {
+        "patient_id": 6,
+        "name": "Fatima Noor",
+        "age": 30,
+        "gender": "Female",
+        "blood_group": "B-",
+        "disease": "Thyroid",
+        "phone": "+92-305-6789012",
+        "address": "Multan, Pakistan",
+        "admitted": false
+    },
+    {
+        "patient_id": 7,
+        "name": "Bilal Hussain",
+        "age": 40,
+        "gender": "Male",
+        "blood_group": "O-",
+        "disease": "Arthritis",
+        "phone": "+92-306-7890123",
+        "address": "Peshawar, Pakistan",
+        "admitted": true
+    },
+    {
+        "patient_id": 8,
+        "name": "Zainab Qureshi",
+        "age": 27,
+        "gender": "Female",
+        "blood_group": "A+",
+        "disease": "Anemia",
+        "phone": "+92-307-8901234",
+        "address": "Quetta, Pakistan",
+        "admitted": false
+    },
+    {
+        "patient_id": 9,
+        "name": "Ahmed Sheikh",
+        "age": 60,
+        "gender": "Male",
+        "blood_group": "B+",
+        "disease": "Cancer",
+        "phone": "+92-308-9012345",
+        "address": "Karachi, Pakistan",
+        "admitted": true
+    },
+    {
+        "patient_id": 10,
+        "name": "Noor Fatima",
+        "age": 19,
+        "gender": "Female",
+        "blood_group": "O+",
+        "disease": "Flu",
+        "phone": "+92-309-0123456",
+        "address": "Hyderabad, Pakistan",
+        "admitted": false
+    }
+]
